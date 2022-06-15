@@ -28,6 +28,7 @@ Miscellaneous
 * MAC Address Lookup: https://macaddress.io/
 
 Query Conversions
+* CyberChef: https://gchq.github.io/CyberChef/
 * Uncoder - Query Converter: https://uncoder.io/
 * Regex Reviewer: https://regex101.com/
 
