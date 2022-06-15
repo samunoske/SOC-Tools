@@ -1,5 +1,5 @@
 # soc-tools
-Collection of free tools for Information Security
+Collection of free tools for Information Security - Primarily for use by Security Operations Center Analysts
 
 Encoded Data Tools/Decoders
 * Javascript Deobfuscator: https://deobfuscate.io/
