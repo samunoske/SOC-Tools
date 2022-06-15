@@ -6,6 +6,7 @@ Encoded Data Tools/Decoders
 * Base64 Decoder: https://www.base64decode.org/
 * URL Decoder: https://www.urldecoder.org/
 * User Agent Decoder: https://user-agents.net/
+* CyberChef: https://gchq.github.io/CyberChef/
 
 IP Check Tools
 * AbuseIPDB: https://www.abuseipdb.com/
@@ -28,7 +29,6 @@ Miscellaneous
 * MAC Address Lookup: https://macaddress.io/
 
 Query Conversions
-* CyberChef: https://gchq.github.io/CyberChef/
 * Uncoder - Query Converter: https://uncoder.io/
 * Regex Reviewer: https://regex101.com/
 
