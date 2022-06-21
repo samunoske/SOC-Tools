@@ -15,7 +15,7 @@ IP Check Tools
 * Shodan: https://www.shodan.io
 
 DNS Check Tools
-* DNS Dumpster: https://www.dnsdumpster.com/
+* DNS Dumpster: https://dnsdumpster.com/
 * ViewDNS: https://www.viewdns.info
 
 URL Check
