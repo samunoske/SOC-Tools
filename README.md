@@ -14,6 +14,10 @@ IP Check Tools
 * IPInfo: https://ipinfo.io/
 * Shodan: https://www.shodan.io
 
+DNS Check Tools
+* DNS Dumpster: https://www.dnsdumpster.com/
+* ViewDNS: https://www.viewdns.info
+
 URL Check
 * Browserling: https://www.browserling.com
 * URLScan: https://www.urlscan.io
