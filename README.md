@@ -21,11 +21,16 @@ DNS Check Tools
 URL Check
 * Browserling: https://www.browserling.com
 * URLScan: https://www.urlscan.io
+* URLHaus: https://urlhaus.abuse.ch/browse/
 
 Malware Check
+* Malware Bazaar: https://bazaar.abuse.ch/browse/
 * Intezer Analyze: https://analyze.intezer.com/
 * VirusTotal: https://www.virustotal.com
 * Tri.age: https://tria.ge/reports/public
+
+Indicator of Compromise (IOC) Check:
+* ThreatFox: https://threatfox.abuse.ch/browse/
 
 Miscellaneous
 * WTFBins: https://wtfbins.wtf/
