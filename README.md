@@ -7,7 +7,7 @@ Encoded Data Tools/Decoders
 * URL Decoder: https://www.urldecoder.org/
 * User Agent Decoder: https://user-agents.net/
 * CyberChef: https://gchq.github.io/CyberChef/
-* UnPHP: https://www.unphp.net/decode/
+* UnPHP: https://www.unphp.net
 
 IP Check Tools
 * AbuseIPDB: https://www.abuseipdb.com/
