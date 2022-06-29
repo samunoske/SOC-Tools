@@ -29,6 +29,7 @@ Malware Check
 * Intezer Analyze: https://analyze.intezer.com/
 * VirusTotal: https://www.virustotal.com
 * Tri.age: https://tria.ge/reports/public
+* MalShare: https://malshare.com/
 
 Indicator of Compromise (IOC) Check:
 * ThreatFox: https://threatfox.abuse.ch/browse/
