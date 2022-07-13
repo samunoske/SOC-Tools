@@ -4,6 +4,7 @@ Collection of free tools for Information Security - Primarily for use by Securit
 Encoded Data Tools/Decoders
 * Javascript Deobfuscator: https://deobfuscate.io/
 * Base64 Decoder: https://www.base64decode.org/
+* Base64 to DOC: https://products.aspose.app/pdf/conversion/base64-to-docx
 * URL Decoder: https://www.urldecoder.org/
 * User Agent Decoder: https://user-agents.net/
 * CyberChef: https://gchq.github.io/CyberChef/
