@@ -39,6 +39,8 @@ Miscellaneous
 * WTFBins: https://wtfbins.wtf/
 * AttackerKB: https://attackerkb.com/
 * MAC Address Lookup: https://macaddress.io/
+* Remini Photo Enhancer: https://app.remini.ai/
+* SOC Capability/Maturity Model: https://soc-cmm.com
 
 Query Conversions
 * Uncoder - Query Converter: https://uncoder.io/
