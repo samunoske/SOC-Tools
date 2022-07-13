@@ -41,6 +41,7 @@ Miscellaneous
 * MAC Address Lookup: https://macaddress.io/
 * Remini Photo Enhancer: https://app.remini.ai/
 * SOC Capability/Maturity Model: https://soc-cmm.com
+* PhishStats: https://phishstats.info/
 
 Query Conversions
 * Uncoder - Query Converter: https://uncoder.io/
