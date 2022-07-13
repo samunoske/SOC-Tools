@@ -51,6 +51,6 @@ Collection of free tools for Information Security - Primarily for use by Securit
 * Trend Micro URL Check: https://global.sitesafety.trendmicro.com/
 * ZScaler URL Risk Identifier: https://zulu.zscaler.com/
 
-## Status Pages
+## Service Status Pages
 * Microsoft Health Status: https://portal.office.com/servicestatus
 * DownDetector: https://downdetector.com/
