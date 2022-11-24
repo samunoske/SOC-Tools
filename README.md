@@ -43,6 +43,7 @@ Collection of free tools for Information Security - Primarily for use by Securit
 * SOC Capability/Maturity Model: https://soc-cmm.com
 * PhishStats: https://phishstats.info/
 * ExplainShell: https://explainshell.com/
+* IP Address CIDR Guide: https://www.ipaddressguide.com/cidr
 
 ## Query Conversions
 * Uncoder - Query Converter: https://uncoder.io/
