@@ -42,6 +42,7 @@ Collection of free tools for Information Security - Primarily for use by Securit
 * Remini Photo Enhancer: https://app.remini.ai/
 * SOC Capability/Maturity Model: https://soc-cmm.com
 * PhishStats: https://phishstats.info/
+* ExplainShell: https://explainshell.com/
 
 ## Query Conversions
 * Uncoder - Query Converter: https://uncoder.io/
