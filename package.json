@@ -1,0 +1,10 @@
+{
+  "name": "soc-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Curated collection of free & open-source web tools for SOC analysts",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "license": "GPL-3.0"
+}
