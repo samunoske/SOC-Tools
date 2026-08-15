@@ -156,14 +156,6 @@
           "note": "Free account: limited lookups/day",
           "access": "free-tier",
           "tags": ["dns", "smtp", "blacklist"]
-        },
-        {
-          "name": "SecurityTrails",
-          "url": "https://securitytrails.com/",
-          "description": "Historical DNS, whois, and subdomain data (free tier).",
-          "note": "Free account: limited queries/day",
-          "access": "free-tier",
-          "tags": ["dns-history", "whois"]
         }
       ]
     },
