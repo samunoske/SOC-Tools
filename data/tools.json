@@ -534,12 +534,6 @@
       "description": "Convert queries between SIEM formats and craft regex.",
       "tools": [
         {
-          "name": "Uncoder.io",
-          "url": "https://uncoder.io/",
-          "description": "Convert detection queries between SIEM formats.",
-          "tags": ["siem", "conversion"]
-        },
-        {
           "name": "regex101",
           "url": "https://regex101.com/",
           "description": "Interactive regex tester and debugger.",
