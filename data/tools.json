@@ -436,12 +436,6 @@
           "url": "https://www.spamhaus.org/",
           "description": "Spam and malware blocklist lookups.",
           "tags": ["blocklist", "spam"]
-        },
-        {
-          "name": "Phish.Report",
-          "url": "https://phish.report/",
-          "description": "Open-source phishing investigation tool.",
-          "tags": ["phishing", "osint"]
         }
       ]
     },
