@@ -446,12 +446,6 @@
       "description": "Analyze packet captures and network traffic in the browser.",
       "tools": [
         {
-          "name": "PacketTotal",
-          "url": "https://www.packettotal.com/",
-          "description": "Free online PCAP analysis with extracted artifacts.",
-          "tags": ["pcap", "analysis"]
-        },
-        {
           "name": "A-Packets",
           "url": "https://apackets.com/",
           "description": "Free online PCAP analyzer with protocol dissection.",
