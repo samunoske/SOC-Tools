@@ -164,12 +164,6 @@
           "note": "Free account: limited queries/day",
           "access": "free-tier",
           "tags": ["dns-history", "whois"]
-        },
-        {
-          "name": "RDAP.org",
-          "url": "https://www.rdap.org/",
-          "description": "Modern registration data lookup (RDAP) for domains and IPs.",
-          "tags": ["rdap", "whois"]
         }
       ]
     },
