@@ -1,5 +1,5 @@
 <!--
-  ⚠️ AUTO-GENERATED FILE — do not edit directly.
+  ⚠️ AUTO-GENERATED FILE. Do not edit directly.
   Edit data/tools.json and run: npm run build
 -->
 
@@ -7,7 +7,7 @@
 
 # 🛡️ SOC Tools
 
-**Collection of free & open-source web tools for Information Security — built for Security Operations Center (SOC) analysts**
+**Collection of free & open-source web tools for Information Security, built for Security Operations Center (SOC) analysts**
 
 ![Tools](https://img.shields.io/badge/Tools-87-2ea44f)
 ![Categories](https://img.shields.io/badge/Categories-13-2ea44f)
@@ -17,6 +17,11 @@
 > ⚠️ Items marked **Free tier** offer a free account tier with usage limits or trial-based access.
 
 </div>
+
+
+> [!WARNING]
+> **Protect sensitive data when using free tools.**
+> Free access does not mean free of responsibility. It is your duty, as the user, analyst, or researcher, to do due diligence before submitting any data to these services. Do not submit PII, PHI, confidential, proprietary, personal, or classified (e.g., Top Secret) data to free tools. Some services share submissions and results with the community, and there is no guarantee that anything you upload will be removed or deleted. Review each service's privacy policy and terms of service before uploading sensitive information. Always comply with your organization's or company's acceptable use policy when using these tools, and if you are using them for your own purposes, choose options that align with your personal risk tolerance and threat model.
 
 ## 📑 Table of Contents
 
@@ -131,7 +136,7 @@
 | Tool | Description | Tags | Access |
 | :--- | :--- | :--- | :--- |
 | [ThreatFox](https://threatfox.abuse.ch/browse/) | IOC sharing platform from abuse.ch. | `ioc` · `feed` | ✅ Free |
-| [AlienVault OTX](https://otx.alienvault.com/) | Open Threat Exchange — community threat intel and pulses. | `ti` · `pulses` | ✅ Free |
+| [AlienVault OTX](https://otx.alienvault.com/) | Open Threat Exchange (community threat intel and pulses). | `ti` · `pulses` | ✅ Free |
 | [MITRE ATT&CK](https://attack.mitre.org/) | Knowledge base of adversary tactics, techniques, and procedures. | `framework` · `tactics` | ✅ Free |
 | [Malpedia](https://malpedia.org/) | YARA rules and profiles for malware families. | `families` · `yara` | ✅ Free |
 | [Feodo Tracker](https://feodotracker.abuse.ch/) | Botnet C2 infrastructure tracker. | `botnet` · `c2` | ✅ Free |
@@ -147,7 +152,7 @@
 | :--- | :--- | :--- | :--- |
 | [PhishTool](https://www.phishtool.com/) | Phishing email analysis, orchestration, and reporting (free tier). _(Free plan: limited email analysis)_ | `email` · `phishing` | ⚠️ Free tier |
 | [Google Messageheader](https://toolbox.googleapps.com/apps/messageheader/) | Parse raw email headers to trace delivery paths. | `headers` · `email` | ✅ Free |
-| [Microsoft Message Header Analyzer](https://mha.azurewebsites.net/) | Official Microsoft header analyzer — breaks down delivery hops and timestamps. | `headers` · `email` · `microsoft` | ✅ Free |
+| [Microsoft Message Header Analyzer](https://mha.azurewebsites.net/) | Official Microsoft header analyzer that breaks down delivery hops and timestamps. | `headers` · `email` · `microsoft` | ✅ Free |
 | [MXToolbox Email Headers](https://mxtoolbox.com/EmailHeaders.aspx) | Decode email headers and check SPF/DKIM/DMARC. _(Free account: limited lookups/day)_ | `headers` · `spf-dkim-dmarc` | ⚠️ Free tier |
 | [EmailRep](https://emailrep.io/) | Email address reputation and risk scoring. _(Free tier: rate-limited lookups)_ | `reputation` · `email` | ⚠️ Free tier |
 | [PhishStats](https://phishstats.info/) | Searchable phishing statistics and malicious domain data. | `phishing` · `stats` | ✅ Free |

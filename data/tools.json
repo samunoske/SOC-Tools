@@ -1,6 +1,7 @@
 {
   "title": "SOC Tools",
-  "tagline": "Collection of free & open-source web tools for Information Security — built for Security Operations Center (SOC) analysts",
+  "tagline": "Collection of free & open-source web tools for Information Security, built for Security Operations Center (SOC) analysts",
+  "disclaimer": "Free access does not mean free of responsibility. It is your duty, as the user, analyst, or researcher, to do due diligence before submitting any data to these services. Do not submit PII, PHI, confidential, proprietary, personal, or classified (e.g., Top Secret) data to free tools. Some services share submissions and results with the community, and there is no guarantee that anything you upload will be removed or deleted. Review each service's privacy policy and terms of service before uploading sensitive information. Always comply with your organization's or company's acceptable use policy when using these tools, and if you are using them for your own purposes, choose options that align with your personal risk tolerance and threat model.",
   "categories": [
     {
       "id": "decoders",
@@ -347,7 +348,7 @@
         {
           "name": "AlienVault OTX",
           "url": "https://otx.alienvault.com/",
-          "description": "Open Threat Exchange — community threat intel and pulses.",
+          "description": "Open Threat Exchange (community threat intel and pulses).",
           "tags": ["ti", "pulses"]
         },
         {
@@ -399,7 +400,7 @@
         {
           "name": "Microsoft Message Header Analyzer",
           "url": "https://mha.azurewebsites.net/",
-          "description": "Official Microsoft header analyzer — breaks down delivery hops and timestamps.",
+          "description": "Official Microsoft header analyzer that breaks down delivery hops and timestamps.",
           "tags": ["headers", "email", "microsoft"]
         },
         {
