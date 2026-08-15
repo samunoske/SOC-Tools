@@ -500,12 +500,6 @@
           "tags": ["lookup", "online"]
         },
         {
-          "name": "Hashes.org",
-          "url": "https://hashes.org/",
-          "description": "Online hash database and cracking statistics.",
-          "tags": ["lookup", "online"]
-        },
-        {
           "name": "Name That Hash",
           "url": "https://nth.skerritt.blog/",
           "description": "Identify unknown hash types.",
